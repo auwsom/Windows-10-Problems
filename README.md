@@ -5,9 +5,9 @@ Just a few thoughts to start with:
 * A lack in quality of feedback channels to fix known and common issues
 
 * Forced Windows Updates
-** Can disrupt work and make system inoperable
-** Official updates have had errors and not thoroughly tested
-** Can finally delay up to 30 days for critical and 365 days for non-critical
+  * Can disrupt work and make system inoperable
+  * Official updates have had errors and not thoroughly tested
+  * Can finally delay up to 30 days for critical and 365 days for non-critical
 
 * Windows User Account Control UAC makes it difficult to install programs and other tasks
 
