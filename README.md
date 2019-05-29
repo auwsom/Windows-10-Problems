@@ -3,10 +3,10 @@ Problems with Microsoft Windows 10
 
 Just a few thoughts to start with:
 * A lack in quality of feedback channels to fix known and common issues
- * For years, questions to Windows Tech Support online had replies not even able to understand the question
- * The public UserVoice channel is disconnected: https://windows.uservoice.com/forums/265757-windows-feature-suggestions/ 
- * One(?) other public resource: https://microsoft.pissedconsumer.com/review.html
- * New Feedback Hub isn't public
+  * For years, questions to Windows Tech Support online had replies not even able to understand the question
+  * The public UserVoice channel is disconnected: https://windows.uservoice.com/forums/265757-windows-feature-suggestions/ 
+  * One(?) other public resource: https://microsoft.pissedconsumer.com/review.html
+  * New Feedback Hub isn't public
 
 * Forced Windows Updates
   * Can disrupt work and make system inoperable
